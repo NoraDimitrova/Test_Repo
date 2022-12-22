@@ -1,1 +1,1 @@
-document.docx  index.html  newDocument.docx  style.css	task.js  word.txt
+This is document with txt format.
